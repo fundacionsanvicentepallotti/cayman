@@ -101,7 +101,7 @@ end
 
 ### Large image
 
-![logo](https://fundacionsanvicentepallotti.github.io/images/banner.png)
+![logo](https://fundacionsanvicentepallotti.github.io/images/banner.png){width='100px'}
 
 
 <iframe width="600" height = "420"
