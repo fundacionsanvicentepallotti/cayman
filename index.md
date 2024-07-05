@@ -101,7 +101,7 @@ end
 
 ### Large image
 
-![Branching](https://assets/css/imagen/logo-fsvp-0001.png))
+![logo](https://assets/css/imagen/logo-fsvp-0001.png.)
 
 
 ### Definition lists can be used with HTML syntax.
