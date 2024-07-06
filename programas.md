@@ -3,11 +3,10 @@ layout: default
 <!--title: Programas-->
 <!--description: sitio de programas de FSVP-->
 ---
-
 [Quienes somos](./quienes-somos.md).
 [Programas](./programas.html).
 [Galeria](./galeria.md).
-[Otra pagina](./another-page.md).
+[Donaciones](./donaciones.md).<br>
 
 ## Programas
 
