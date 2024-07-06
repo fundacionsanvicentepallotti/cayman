@@ -1,10 +1,16 @@
 ---
 layout: default
-title: Galeria
-description: banco de imagenes de FSVP
+<!--title: Galeria-->
+<!--description: Galeria de FSVP-->
 ---
 
-## Bienvenido a nuestra galeria
+[Quienes somos](./quienes-somos.md).
+[Programas](./programas.html).
+[Galeria](./galeria.md).
+[Otra pagina](./another-page.md).
 
+## Galeria
+
+<p>Hola mundo</p>
 
 [back](./)
