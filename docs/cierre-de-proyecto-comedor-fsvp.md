@@ -5,9 +5,17 @@ Gracias a todos por su dedicación y esfuerzo que han marcado la diferencia en l
 Su labor ha sido invaluable y ha traído alegría y esperanza a quienes más lo necesitan.
 ¡Sigan siendo una inspiración para todos!
 ¡Gracias de corazón!
+![logo](https://fundacionsanvicentepallotti.github.io/images/cierrede-proyecto-oo2.jpg)
 
+![logo](https://fundacionsanvicentepallotti.github.io/images/cierrede-proyecto-oo3.jpg)
 
+![logo](https://fundacionsanvicentepallotti.github.io/images/cierrede-proyecto-oo4.jpg)
 
+![logo](https://fundacionsanvicentepallotti.github.io/images/cierrede-proyecto-oo4.jpg)
+
+![logo](https://fundacionsanvicentepallotti.github.io/images/cierrede-proyecto-oo6.jpg)
+
+![logo](https://fundacionsanvicentepallotti.github.io/images/cierrede-proyecto-oo5.jpg)
 
 
 
