@@ -8,7 +8,7 @@ layout: default
 [Galeria](./galeria.md).
 [Donaciones](./donaciones.md).<br>
 
-## Programas
+# Programas
 
 <p>Hola mundo</p>
 
