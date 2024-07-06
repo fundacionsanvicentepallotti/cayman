@@ -8,7 +8,7 @@ description: pagina cayman
 
 <p>Hola mundo</p>
 
-<a href="https://fundacionsanvicentepallotti.github.io/" class="btn">Home</a>
+<a href="https://fundacionsanvicentepallotti.github.io/">HOME/a>
 
 <p>https://fundacionsanvicentepallotti.github.io/</p>
 
