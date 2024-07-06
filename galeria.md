@@ -10,7 +10,7 @@ layout: default
 [Galeria](./galeria.md).
 [Donaciones](./donaciones.md).<br>
 
-## Galeria
+# Galeria
 
 <p>Hola mundo</p>
 
