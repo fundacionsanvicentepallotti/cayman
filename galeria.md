@@ -4,10 +4,11 @@ layout: default
 <!--description: Galeria de FSVP-->
 ---
 
+
 [Quienes somos](./quienes-somos.md).
 [Programas](./programas.html).
 [Galeria](./galeria.md).
-[Otra pagina](./another-page.md).
+[Donaciones](./donaciones.md).<br>
 
 ## Galeria
 
