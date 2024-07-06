@@ -1,11 +1,15 @@
 ---
 layout: default
-<!--title: Galeria-->
+title: 1er Cierre de Proyecto 2024
 <!--description: Galeria de FSVP-->
 ---
+[HOME](./)
+[Quienes somos](./quienes-somos.md).
+[Programas](./programas.html).
+[Galeria](./galeria.md).
+[Donaciones](./donaciones.md).<br><br>
 
-
-# Cierre de Proyecto Comedor San Vicente Pallotti
+# 1er Cierre de Proyecto Comedor San Vicente Pallotti 2024
 <p>Damos gracias a Dios por la exitosa culminación del proyecto del Comedor de este 1er semestre del año.
 Los niños y abuelos disfrutaron de actividades de pintura, manualidades y deporte para tener un dia diferente.
 Gracias a todos por su dedicación y esfuerzo que han marcado la diferencia en la comunidad. Gracias por su generosidad y compromiso a todo el personal de cocina, mantenimiento, logistica y todos los voluntarios y colaboradores que hacen posible esta obra.
