@@ -14,11 +14,3 @@ layout: default
 <p>Hola mundo</p>
 
 [back](./)
-
-
-
-
-<p>Hola mundo</p>
-
-
-[back](./)
