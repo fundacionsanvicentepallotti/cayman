@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quines Somos
+<--title: Quines Somos-->
 <!--description: Se describe la misión y vición-->
 ---
 [Quienes somos](./quienes-somos.md).
@@ -10,7 +10,5 @@ title: Quines Somos
 ## Nuestra Mision
 
 <p>Hola mundo</p>
-<a href="https://fundacionsanvicentepallotti.github.io/">HOME/a>
-<p>https://fundacionsanvicentepallotti.github.io/</p>
 
 [back](./)
