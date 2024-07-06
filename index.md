@@ -2,12 +2,13 @@
 layout: default
 ---
 
+[Otra pagina](./another-page.md).
+[Programas](./programas.html).
+[Galeria](./galeria.md).
+[Quienes somos](./quienes-somos.md).
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Otra pagina](./another-page.html).
-[Programas](./programas.html).
 
 There should be whitespace between paragraphs.
 
