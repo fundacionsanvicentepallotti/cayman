@@ -25,6 +25,7 @@ Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable,
 ¿En qué consiste?:Tomar conciencia de ser enviados a nuestras comunidades a continuar el apostolado al que somos llamados para que cuanto antes haya un solo rebaño bajo un solo pastor.
 ## FORMACIÓN
 ¿En qué consiste?: El seguimiento de Jesús es el centro de nuestra espiritualidad. Hablar de espiritualidad, en la perspectiva cristiana, no será otra cosa que hablar de la experiencia del Espíritu de Jesús de Nazareth, Apóstol del Eterno Padre.
+![logo](https://fundacionsanvicentepallotti.github.io/images/banner.png){width='100px'}
 ## Unión del Apostolado Católico
 La Unión del Apostolado Católico es un grupo de Sacerdotes y Laicos con la misión de reavivar la fe, llevando a todo los a la unidad en Cristo a través del ejemplo de su Padre fundador San Vicente Pallotti.
 
