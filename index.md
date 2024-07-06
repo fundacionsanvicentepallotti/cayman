@@ -2,11 +2,10 @@
 layout: default
 ---
 
-[Otra pagina](./another-page.md).
+[Quienes somos](./quienes-somos.md).
 [Programas](./programas.html).
 [Galeria](./galeria.md).
-[Quienes somos](./quienes-somos.md).
-
+[Quienes somos](./donaciones.md).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
