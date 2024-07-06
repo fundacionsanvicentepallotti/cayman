@@ -5,7 +5,8 @@ layout: default
 [Quienes somos](./quienes-somos.md).
 [Programas](./programas.html).
 [Galeria](./galeria.md).
-[Quienes somos](./donaciones.md).
+[Donaciones](./donaciones.md).<br>
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
