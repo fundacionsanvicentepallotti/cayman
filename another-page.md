@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Otra pagina
-description: pagina cayman
+<!--title: Otra pagina-->
+<!--description: Otra pagina FSVP-->
 ---
 
-## Welcome to another page
+[Quienes somos](./quienes-somos.md).
+[Programas](./programas.html).
+[Galeria](./galeria.md).
+[Otra pagina](./another-page.md).
+
+## Otra pagina
 
 <p>Hola mundo</p>
-
-<a href="https://fundacionsanvicentepallotti.github.io/cayman/index.md">HOME</a>
-
-<p>https://fundacionsanvicentepallotti.github.io/</p>
 
 [back](./)
