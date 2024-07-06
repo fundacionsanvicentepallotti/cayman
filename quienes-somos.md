@@ -9,7 +9,7 @@ layout: default
 [Galeria](./galeria.md).
 [Donaciones](./donaciones.md).<br>
 
-## Nuestra Mision
+# Quienes Somos
 
 <p>Hola mundo</p>
 
