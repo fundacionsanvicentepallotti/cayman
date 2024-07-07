@@ -6,8 +6,6 @@ layout: default
 
 # Quienes Somos
 
-## Nosotros
-
 ## MISIÓN
 Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios, proclamando el Evangelio, mediante palabra y obra, atendiendo a todos los necesitados de hambre espiritual y corporal. Utilizando todos los recursos y herramientas posibles, desde el contacto personal hasta los medios electrónicos.
 ## VISIÓN
