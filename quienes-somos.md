@@ -3,15 +3,10 @@ layout: default
 <--title: Quines Somos-->
 <!--description: Se describe la misión y vición-->
 ---
-[HOME](./)
-[Quienes somos](./quienes-somos.md).
-[Programas](./programas.html).
-[Galeria](./galeria.md).
-[Donaciones](./donaciones.md).<br>
 
 # Quienes Somos
 
-##Nosotros
+## Nosotros
 
 ## MISIÓN
 Reencender y propagar la Caridad entre todos los miembros del Pueblo de Dios, proclamando el Evangelio, mediante palabra y obra, atendiendo a todos los necesitados de hambre espiritual y corporal. Utilizando todos los recursos y herramientas posibles, desde el contacto personal hasta los medios electrónicos.
@@ -24,7 +19,7 @@ Alcanzar todos los lugares donde se encuentren personas en condicion vulnerable,
 ## EVANGELIZACIÓN
 ¿En qué consiste?:Tomar conciencia de ser enviados a nuestras comunidades a continuar el apostolado al que somos llamados para que cuanto antes haya un solo rebaño bajo un solo pastor.
 ## FORMACIÓN
-¿En qué consiste?: El seguimiento de Jesús es el centro de nuestra espiritualidad. Hablar de espiritualidad, en la perspectiva cristiana, no será otra cosa que hablar de la experiencia del Espíritu de Jesús de Nazareth, Apóstol del Eterno Padre.
+¿En qué consiste?: El seguimiento de Jesús es el centro de nuestra espiritualidad. Hablar de espiritualidad, en la perspectiva cristiana, no será otra cosa que hablar de la experiencia del Espíritu de Jesús de Nazareth, Apóstol del Eterno Padre.<br>
 ![logo](https://fundacionsanvicentepallotti.github.io/images/banner.png)
 ## Unión del Apostolado Católico
 La Unión del Apostolado Católico es un grupo de Sacerdotes y Laicos con la misión de reavivar la fe, llevando a todo los a la unidad en Cristo a través del ejemplo de su Padre fundador San Vicente Pallotti.
