@@ -5,11 +5,6 @@ layout: default
 ---
 
 
-[Quienes somos](./quienes-somos.md).
-[Programas](./programas.html).
-[Galeria](./galeria.md).
-[Donaciones](./donaciones.md).<br>
-
 # Galeria
 
 <p>Hola mundo</p>
