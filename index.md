@@ -1,21 +1,17 @@
 ---
-layout: default
+#
+# Here you can change the text shown in the Home page before the Latest Posts section.
+#
+# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
 ---
 
+Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
 
-![logo](https://fundacionsanvicentepallotti.github.io/images/cierrede-proyecto-oo8.jpg)
-# Cierre de Proyecto Comedor San Vicente Pallotti
-Damos gracias a Dios por la exitosa culminación del proyecto del Comedor de este 1er semestre del año.
-[ver más](./docs/cierre-de-proyecto-comedor-fsvp.md).
+This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
 
+Have a look at the Github page for more information.
 
-<div class="row">
-    <div class="col">
-      1 of 3
-    </div>
-    <div class="col">
-      2 of 3
-    </div>
-    <div class="col">
-      3 of 3
-    </div>
+You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
